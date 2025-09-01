@@ -1,0 +1,10 @@
+# Ignore virtual environments
+.venv/
+env/
+
+# Ignore ChromaDB store
+chroma_store/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
