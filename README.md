@@ -38,13 +38,3 @@ streamlit run app.py
 Farah Mahmoud - https://www.linkedin.com/in/farahhmahmoudd/
 ---
 
-## ✅ 5. Initialize Git Repo Locally
-
-From your terminal:
-
-```bash
-cd AskMyDocs
-git init
-git add .
-git commit -m "Initial commit of AskMyDocs project"
-
