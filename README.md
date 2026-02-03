@@ -33,12 +33,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
-## 📄 Author
-Farah Mahmoud - https://www.linkedin.com/in/farahmahmoudd/
----
-
-## ✅ 5. Initialize Git Repo Locally
+## ✅ Initialize Git Repo Locally
 
 From your terminal:
 
@@ -47,4 +42,9 @@ cd AskMyDocs
 git init
 git add .
 git commit -m "Initial commit of AskMyDocs project"
+```
+
+## 📄 Author
+Farah Mahmoud - https://www.linkedin.com/in/farahmahmoudd/
+---
 
